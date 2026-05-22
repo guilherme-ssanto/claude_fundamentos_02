@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:\\\\Users\\\\Guilherme Santos\\\\.claude\\\\projects\\\\C--Users-Guilherme-Santos-Documents-estudos-jornada-de-dados-claude-fundamentos-02\\\\memory\")",
+      "Bash(cat /tmp/vite.log | tail -20)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
